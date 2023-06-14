@@ -4,6 +4,13 @@
 
 The VR House Viewing Platform is an innovative solution that leverages virtual reality technology to revolutionize the way properties are explored and purchased. This platform caters to the needs and preferences of the younger generation, who are increasingly comfortable with virtual experiences and seek convenience and immersive interactions in their house-hunting process.
 
+
+
+## Introduction 
+
+We have made a VR house viewing platform. We are employing an IoT enabled smart 360 degree photo taking device to map out a room. This can be now put into the website, the frontend is designed with React JS and backend Express JS, the tech stack used is MERN. It also the frontend is integrated to Ethereum Blockchain, using EtherJS. When a promoter or house-builder signs into our website, the web can go to one of the two pages. One, where it goes to a list of properties, given the approval, whether that is approved or not. Second page, promoter can see a button to add images captured using IOT devices and along with it minimal additional details of property. Then we will use a 3D GAN to create a 3D model to be put into the VR model which can be access by Oculus Quest. Now for user when they log in they can search the location in the search bar specifying where they are buying the house. A list of housing with the current prices will be displayed. We arei nfering this value from ML model using random forest regression. If the user clicks on the property card they can also see the pricing for the next 3 years. They can then download an APK which will allowed them to view the housing a virtual 3D environment in Oculus Quest.
+
+
 ## Features
 Immersive Virtual Reality Experience: Users can virtually walk through properties using VR headsets, providing a realistic and engaging exploration of potential homes.
 
@@ -64,13 +71,30 @@ Feel free to explore the project and join us on this transformative journey as w
 ## Unity and Blender Part 
 Since Unity and Blender deals with GIT LFS for upoading we didinot risk this repos integrity for the project we created separate repos for them and we are linking them here for you to check out 
 
+Movie Theater 
+
 
 https://github.com/satrajitghosh183/Movie-Theater
 
 
 
+Housing Walkthrough 
+
 
 https://github.com/satrajitghosh183/Housing-Walkthrough
+
+
+
+Apartment Walkthrough 
+
+https://github.com/satrajitghosh183/Flat_Walkthrough
+
+
+
+
+## Youtube Video Link 
+
+https://youtu.be/6aEqOfWVV4Q
 
 
 
@@ -123,7 +147,23 @@ https://github.com/satrajitghosh183/Housing-Walkthrough
 
 
 
+https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/044c1e04-9512-4c96-bbc2-346555108840
 
 
+
+
+
+
+![seg2cat_1_label](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/8dd6627a-f0ff-4b94-85ad-42a9936d80bc)
+
+![seg2cat_1666_1_color](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/077da671-da08-4fe0-ae20-bdf8f2a726ff)
+
+
+
+https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/406fbe56-35b3-4ef6-9b20-f36c4cf31db4
+
+![image](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/92b6226c-9a01-4673-b404-d98fe3339c1b)
+
+![image](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/02a9183f-c242-4379-b424-21d9db7a9e18)
 
 
