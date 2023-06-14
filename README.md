@@ -178,6 +178,22 @@ https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/406fbe56-35b3
 
 
 
+
+https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/e8bd6508-9c56-4e30-a605-26d7a59346c2
+
+
+
+# Presentation 
+
+
+
+
+[Final-compressed.pdf](https://github.com/satrajitghosh183/VRProperty-Pro/files/11743464/Final-compressed.pdf)
+
+
+
+
+
 # Contributors 
 
 Satrajit Ghosh: https://github.com/satrajitghosh183
