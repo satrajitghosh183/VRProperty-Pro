@@ -178,3 +178,19 @@ https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/406fbe56-35b3
 
 
 
+# Contributors 
+
+Satrajit Ghosh: https://github.com/satrajitghosh183
+
+
+Jubaraj Mukherjee: https://github.com/jubarajmukherjee
+
+
+
+Subhramoy Biswas : https://github.com/Subhramoy9
+
+
+Rhitam Mukherjee :https://github.com/RhitamMukherjee
+
+
+
