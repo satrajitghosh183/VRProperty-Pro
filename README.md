@@ -125,7 +125,6 @@ https://youtu.be/6aEqOfWVV4Q
 ![image](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/40d4d454-bfeb-430f-a3d8-3992ba29a5d4)
 
 
-![image](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/587d56cd-4d8c-488d-b055-6acd72e202d7)
 
 
 
@@ -164,10 +163,12 @@ https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/406fbe56-35b3
 
 ![image](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/02a9183f-c242-4379-b424-21d9db7a9e18)
 
+![image](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/0a208529-5104-4d95-b712-978e0d622d20)
+
+
 ## IoT Device
 ![WhatsApp Image 2023-06-14 at 12 02 54](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/0e9b758e-3238-48b9-a9f7-0426893b69d7)
 
 
-![image](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/0a208529-5104-4d95-b712-978e0d622d20)
-
+![image](https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/587d56cd-4d8c-488d-b055-6acd72e202d7)
 
