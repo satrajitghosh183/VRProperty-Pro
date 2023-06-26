@@ -196,10 +196,10 @@ https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/e8bd6508-9c56
 
 
 
+# To recreate the project from the Git repository, please follow these instructions:
 
 
 
-To recreate the project from the Git repository, please follow these instructions:
 
 Clone the Git repository to your local machine.
 git clone https://github.com/satrajitghosh183/VRProperty-Pro.git
@@ -259,6 +259,16 @@ python applications/generate_video.py --network checkpoints/pix2pix3d_seg2cat.pk
 
 
 
+
+For the VR part 
+
+Clone each individual git repo 
+
+
+Open in Unity using right editor version and with android padd on installed 
+
+
+Build the project after switching to Android 
 
 
 
