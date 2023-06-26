@@ -194,6 +194,82 @@ https://github.com/satrajitghosh183/VRProperty-Pro/assets/83156880/e8bd6508-9c56
 
 
 
+
+
+
+
+
+To recreate the project from the Git repository, please follow these instructions:
+
+Clone the Git repository to your local machine.
+git clone https://github.com/satrajitghosh183/VRProperty-Pro.git
+Install the necessary dependencies for the front end and backend.
+Frontend (React JS):
+cd frontend
+npm install
+Backend (Express JS):
+cd backend
+npm install
+
+Then use npm start on both to run the website locally 
+
+
+
+Start the backend server.
+cd backend
+npm start
+
+Start the frontend development server.
+
+cd frontend
+npm start
+The project should now be up and running locally.
+
+For the 3D GAN 
+
+We provide a conda env file that contains all the other dependencies. You can use the following commands with Miniconda3 to create and activate your Python environment:
+
+conda env create -f environment.yml
+conda activate pix2pix3d
+Data
+We provide our preprocessed datasets, including segmentation maps and edge maps. You can download the CelebAMask dataset, AFHQ-Cat-Seg dataset, and Shapenet-Car-Edge dataset and put those zip files under data/.
+
+Pre-trained Models
+You can download our pre-trained models using the following script:
+
+bash checkpoints/download_models.sh
+Inference
+We provide several scripts to generate the results once you download the pre-trained models.
+
+
+
+Generate Samples
+You can generate results based on the samples in the dataset.
+
+python applications/generate_samples.py --network  --outdir  --random_seed  --cfg  --input_id 
+
+python applications/generate_samples.py --network checkpoints/pix2pix3d_seg2cat.pkl --outdir examples --random_seed 1 --cfg seg2cat --input_id 1666
+
+Render Videos
+You can render a video result based on a specified input label map.
+
+python applications/generate_video.py --network  --outdir  --random_seed  --cfg  --input <input label="">
+
+python applications/generate_video.py --network checkpoints/pix2pix3d_seg2cat.pkl --outdir examples --random_seed 1 --cfg seg2cat --input examples/example_input.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Contributors 
 
 Satrajit Ghosh: https://github.com/satrajitghosh183
